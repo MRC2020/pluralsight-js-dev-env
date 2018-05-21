@@ -26,10 +26,10 @@ When to Run Tests:    Upon Saves
 This does continuous testing throughout the entire dev life cycle.
 In this project we will use Travis CI and Appveyor.
 
-Travis CI = Integrates with github and javascript.  You use your github account to login to https://travis-ci.org to setup the testing server.
+Travis CI = Integrates with github and javascript used for Linux environments.  You use your github account to login to https://travis-ci.org to setup the testing server.
 
 
-Appveyor
+AppVeyor = Continuous integration testing for Windows environments.
 
 
 
