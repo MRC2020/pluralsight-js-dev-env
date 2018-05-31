@@ -3,6 +3,11 @@ Pluralsight course on setting up dev env for javascript
 
 use npm start to kick off start script in buildScripts folder.
 
+#### Github basics
+git add .   = this adds all changed files to staging area for pushing up to github.  NOTE space before the period .
+git commit -m "the message to add to the commit"   = this commits the changes in stage and adds the message for this commit.
+git push   = push the commited changes to github.
+
 ###Using Localtunnel - shares web project on public internet
 cmd:  lt
 example:  start localtunnel and select the port the project is currently using.  This will return a random url for access.
